@@ -1,5 +1,8 @@
 # ☁️ Cloud Cost Intelligence Agent
 
+![CI](https://github.com/sahulkrishna0-lab/cloud-cost-intelligence-agent/actions/workflows/ci.yml/badge.svg)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sahulkrishna0-lab-cloud-cost-intelligence-agent.streamlit.app/)
+
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-0.2+-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2+-FF6B35?style=for-the-badge)](https://langchain-ai.github.io/langgraph/)
